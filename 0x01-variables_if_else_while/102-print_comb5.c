@@ -44,5 +44,5 @@ j++;
 i++;
 }
 putchar(10);
-putchar (0);
+return (0);
 }
