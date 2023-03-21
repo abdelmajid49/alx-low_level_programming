@@ -1,7 +1,7 @@
 #include"main.h"
 
 /**
- * jack_bauer - prints all minutes of the day
+ * jack_bauer - prints every minute of the day
  *
  * Description: prints every minute of the day
  *
@@ -37,7 +37,7 @@ _putchar(minutes_ones);
 _putchar('\n');
 minutes_ones++;
 }
-minutes_tens = '0';
+minutes_ones = '0';
 minutes_tens++;
 }
 minutes_tens = '0';
